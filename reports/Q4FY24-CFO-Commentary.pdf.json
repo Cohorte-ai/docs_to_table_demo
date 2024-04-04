@@ -1,0 +1,5475 @@
+[
+    {
+        "element_id": "675edd423a52405b82a3b97712c1bded",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1058.3,
+                        190.4
+                    ],
+                    [
+                        1058.3,
+                        304.3
+                    ],
+                    [
+                        1575.0,
+                        304.3
+                    ],
+                    [
+                        1575.0,
+                        190.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "@ NVIDIA.",
+        "type": "Image"
+    },
+    {
+        "element_id": "41f70ddd7f2e68b695733b7a8083c1dc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        288.0,
+                        344.4
+                    ],
+                    [
+                        288.0,
+                        386.9
+                    ],
+                    [
+                        1412.7,
+                        386.9
+                    ],
+                    [
+                        1412.7,
+                        344.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.63167,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "CFO Commentary on Fourth Quarter and Fiscal 2024 Results",
+        "type": "Title"
+    },
+    {
+        "element_id": "b8cc68a87147dab82ea6bf71ea060b62",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        425.1
+                    ],
+                    [
+                        125.0,
+                        458.7
+                    ],
+                    [
+                        489.8,
+                        458.7
+                    ],
+                    [
+                        489.8,
+                        425.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.80864,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "Q4 Fiscal 2024 Summary",
+        "type": "Title"
+    },
+    {
+        "element_id": "f277484faa5812d84c173f6c815d9b4f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        807.6,
+                        491.5
+                    ],
+                    [
+                        807.6,
+                        523.3
+                    ],
+                    [
+                        893.9,
+                        523.3
+                    ],
+                    [
+                        893.9,
+                        491.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.32838,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "GAAP",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "4e7e4be626cfb1d84fa2c4df72ac0ef9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        129.7,
+                        503.2
+                    ],
+                    [
+                        129.7,
+                        850.1
+                    ],
+                    [
+                        1581.6,
+                        850.1
+                    ],
+                    [
+                        1581.6,
+                        503.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91466,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62",
+            "text_as_html": "<table><tr><td>in millions, except earnings per</td><td>= qa FY24</td><td>Q3 FY24</td><td>Q4 FY23</td><td>a/a</td><td>YIY</td></tr><tr><td>Revenue</td><td>$22,103</td><td>$18,120</td><td>$6,051</td><td>Up 22%</td><td>Up 265%</td></tr><tr><td>Gross margin</td><td>76.0%</td><td>74.0%</td><td>63.3%</td><td>Up 2.0 pts</td><td>Up 12.7 pts</td></tr><tr><td>Operating expenses</td><td>$3,176</td><td>$2,983</td><td>$2,576</td><td>Up 6%</td><td>Up 23%</td></tr><tr><td>Operating income</td><td>$13,615</td><td>$10,417</td><td>$1,257</td><td>Up 31%</td><td>Up 983%</td></tr><tr><td>Net income</td><td>$12,285</td><td>$9,243</td><td>$1,414</td><td>Up 33%</td><td>Up 769%</td></tr><tr><td>Diluted earnings per share</td><td>$4.93</td><td>$3.71</td><td>$0.57</td><td>Up 33%</td><td>Up 765%</td></tr></table>"
+        },
+        "text": "($ in millions, except earnings per share) Q4 FY24 Q3 FY24 Q4 FY23 Q/Q Y/Y Revenue $22,103 $18,120 $6,051 Up 22% Up 265% Gross margin 76.0 % 74.0 % 63.3 % Up 2.0 pts Up 12.7 pts Operating expenses $3,176 $2,983 $2,576 Up 6% Up 23% Operating income $13,615 $10,417 $1,257 Up 31% Up 983% Net income $12,285 $9,243 $1,414 Up 33% Up 769% Diluted earnings per share $4.93 $3.71 $0.57 Up 33% Up 765%",
+        "type": "Table"
+    },
+    {
+        "element_id": "a51db9aef3cea51a9267b55669589b44",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        771.0,
+                        900.7
+                    ],
+                    [
+                        771.0,
+                        933.0
+                    ],
+                    [
+                        930.6,
+                        933.0
+                    ],
+                    [
+                        930.6,
+                        900.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.48385,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "Non-GAAP",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "5a7679186e9569a9c418e0df582a28d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        128.7,
+                        917.5
+                    ],
+                    [
+                        128.7,
+                        1255.5
+                    ],
+                    [
+                        1583.4,
+                        1255.5
+                    ],
+                    [
+                        1583.4,
+                        917.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92243,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62",
+            "text_as_html": "<table><tr><td>($ in millions, except earnings per share)</td><td>Q4 FY24</td><td>Q3 FY24</td><td>Q4 FY23</td><td>Q/Q</td><td>YIY</td></tr><tr><td>Revenue</td><td>$22,103</td><td>$18,120</td><td>$6,051</td><td>Up 22%</td><td>Up 265%</td></tr><tr><td>Gross margin</td><td>76.7 %</td><td>75.0 %</td><td>66.1 %</td><td>Up 1.7 pts</td><td>Up 10.6 pts</td></tr><tr><td>Operating expenses</td><td>$2,210</td><td>$2,026</td><td>$1,775</td><td>Up 9%</td><td>Up 25%</td></tr><tr><td>Operating income</td><td>$14,749</td><td>$11,557</td><td>$2,224</td><td>Up 28%</td><td>Up 563%</td></tr><tr><td>Net income</td><td>$12,839</td><td>$10,020</td><td>$2,174</td><td>Up 28%</td><td>Up 491%</td></tr><tr><td>Diluted earnings per share</td><td>$5.16</td><td>$4.02</td><td>$0.88</td><td>Up 28%</td><td>Up 486%</td></tr></table>"
+        },
+        "text": "($ in millions, except earnings per share) Q4 FY24 Q3 FY24 Q4 FY23 Q/Q Y/Y Revenue $22,103 $18,120 $6,051 Up 22% Up 265% Gross margin 76.7 % 75.0 % 66.1 % Up 1.7 pts Up 10.6 pts Operating expenses $2,210 $2,026 $1,775 Up 9% Up 25% Operating income $14,749 $11,557 $2,224 Up 28% Up 563% Net income $12,839 $10,020 $2,174 Up 28% Up 491%",
+        "type": "Table"
+    },
+    {
+        "element_id": "b867e593570f44aa9c04aad503120ee1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        133.3,
+                        1230.9
+                    ],
+                    [
+                        133.3,
+                        1258.6
+                    ],
+                    [
+                        476.1,
+                        1258.6
+                    ],
+                    [
+                        476.1,
+                        1230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "Diluted earnings per share",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9564308b8b6988e0778aeae4730fd52f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        652.0,
+                        1230.9
+                    ],
+                    [
+                        652.0,
+                        1258.6
+                    ],
+                    [
+                        725.0,
+                        1258.6
+                    ],
+                    [
+                        725.0,
+                        1230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "$5.16",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "2760a2278ad647f582a89bcbdfe8e360",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        862.4,
+                        1230.9
+                    ],
+                    [
+                        862.4,
+                        1258.6
+                    ],
+                    [
+                        935.4,
+                        1258.6
+                    ],
+                    [
+                        935.4,
+                        1230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "$4.02",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "3d921faf5212fe4932bee7ed7d73db8e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1072.9,
+                        1230.9
+                    ],
+                    [
+                        1072.9,
+                        1258.6
+                    ],
+                    [
+                        1145.8,
+                        1258.6
+                    ],
+                    [
+                        1145.8,
+                        1230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "$0.88",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "24f6b14776f95baa6676d5f55d6bf415",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1257.0,
+                        1230.9
+                    ],
+                    [
+                        1257.0,
+                        1258.6
+                    ],
+                    [
+                        1356.2,
+                        1258.6
+                    ],
+                    [
+                        1356.2,
+                        1230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "Up 28%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "423a620d0cbf74262b3b6b3c62052163",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1450.8,
+                        1230.9
+                    ],
+                    [
+                        1450.8,
+                        1258.6
+                    ],
+                    [
+                        1566.6,
+                        1258.6
+                    ],
+                    [
+                        1566.6,
+                        1230.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "b8cc68a87147dab82ea6bf71ea060b62"
+        },
+        "text": "Up 486%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ca30f7afeebd1ddceb2a5b965e9e14f7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        604.5,
+                        1320.5
+                    ],
+                    [
+                        604.5,
+                        1393.4
+                    ],
+                    [
+                        1105.1,
+                        1393.4
+                    ],
+                    [
+                        1105.1,
+                        1320.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "Revenue by Reportable Segments Q4 FY23 Q3 FY24",
+        "type": "Title"
+    },
+    {
+        "element_id": "7e2e08efd0369e412d840e861a1d5f8a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.3,
+                        1331.5
+                    ],
+                    [
+                        125.3,
+                        1523.2
+                    ],
+                    [
+                        1563.8,
+                        1523.2
+                    ],
+                    [
+                        1563.8,
+                        1331.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89365,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "ca30f7afeebd1ddceb2a5b965e9e14f7",
+            "text_as_html": "<table><tr><td>($ in millions)</td><td>Q4 FY24</td><td>Q3 FY24</td><td>Q4 FY23</td><td>Q/Q</td><td>YIY</td></tr><tr><td>Compute &amp; Networking</td><td>$17,898</td><td>$14,645</td><td>$3,673</td><td>Up 22%</td><td>Up 387%</td></tr><tr><td>Graphics</td><td>4,205</td><td>3,475</td><td>2,378</td><td>Up 21%</td><td>Up 77%</td></tr><tr><td>Total</td><td>$22,103</td><td>$18,120</td><td>$6,051</td><td>Up 22%</td><td>Up 265%</td></tr></table>"
+        },
+        "text": "($ in millions) Q4 FY24 Q/Q Y/Y Compute & Networking $17,898 $14,645 $3,673 Up 22% Graphics 4,205 3,475 2,378 Up 21%",
+        "type": "Table"
+    },
+    {
+        "element_id": "c9b3c38247f744e17dd26fda097d6a9b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        132.3,
+                        1496.8
+                    ],
+                    [
+                        132.3,
+                        1524.6
+                    ],
+                    [
+                        198.1,
+                        1524.6
+                    ],
+                    [
+                        198.1,
+                        1496.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "Total",
+        "type": "Title"
+    },
+    {
+        "element_id": "45c0571a7d61775626bd0c565a7a46b2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        619.8,
+                        1496.8
+                    ],
+                    [
+                        619.8,
+                        1524.6
+                    ],
+                    [
+                        726.0,
+                        1524.6
+                    ],
+                    [
+                        726.0,
+                        1496.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "$22,103",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0c7c66068ceec2be8c58634652e3776e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        830.2,
+                        1496.8
+                    ],
+                    [
+                        830.2,
+                        1524.6
+                    ],
+                    [
+                        936.4,
+                        1524.6
+                    ],
+                    [
+                        936.4,
+                        1496.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "$18,120",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "dfb39978a5cabe59b7e44d402e122a03",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1057.2,
+                        1496.8
+                    ],
+                    [
+                        1057.2,
+                        1524.6
+                    ],
+                    [
+                        1146.9,
+                        1524.6
+                    ],
+                    [
+                        1146.9,
+                        1496.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "$6,051",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f20e4d82f1a7a775f1a88a20ef2df0c8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1258.1,
+                        1496.8
+                    ],
+                    [
+                        1258.1,
+                        1524.6
+                    ],
+                    [
+                        1357.3,
+                        1524.6
+                    ],
+                    [
+                        1357.3,
+                        1496.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "Up 22%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0b8ca2f597aeb55ca6a1edc8a4035b45",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1451.8,
+                        1409.3
+                    ],
+                    [
+                        1451.8,
+                        1437.1
+                    ],
+                    [
+                        1567.7,
+                        1437.1
+                    ],
+                    [
+                        1567.7,
+                        1409.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "Up 387%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ad4ceb4ea42d0f5371f8d58eb3e991c7",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1468.5,
+                        1453.1
+                    ],
+                    [
+                        1468.5,
+                        1480.9
+                    ],
+                    [
+                        1567.7,
+                        1480.9
+                    ],
+                    [
+                        1567.7,
+                        1453.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "Up 77%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "03603143cd4363df7853dbeb3da7538b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1451.8,
+                        1496.8
+                    ],
+                    [
+                        1451.8,
+                        1524.6
+                    ],
+                    [
+                        1567.7,
+                        1524.6
+                    ],
+                    [
+                        1567.7,
+                        1496.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "Up 265%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "53457cd5095359c9fbe9c43859f5665c",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        640.3,
+                        1586.5
+                    ],
+                    [
+                        640.3,
+                        1659.3
+                    ],
+                    [
+                        1059.8,
+                        1659.3
+                    ],
+                    [
+                        1059.8,
+                        1586.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "Revenue by Market Platform Q3 FY24",
+        "type": "Title"
+    },
+    {
+        "element_id": "3dcc1220e9ada990a91f3abad4a87b6d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.5,
+                        1603.6
+                    ],
+                    [
+                        125.5,
+                        1921.2
+                    ],
+                    [
+                        1586.9,
+                        1921.2
+                    ],
+                    [
+                        1586.9,
+                        1603.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92005,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "53457cd5095359c9fbe9c43859f5665c",
+            "text_as_html": "<table><tr><td>($ in millions)</td><td>Q4 FY24</td><td>Q3 FY24</td><td>Q4 FY23</td><td>Q/Q</td><td>YIY</td></tr><tr><td>Data Center</td><td>$18,404</td><td>$14,514</td><td>$3,616</td><td>Up 27%</td><td>Up 409%</td></tr><tr><td>Gaming</td><td>2,865</td><td>2,856</td><td>1,831</td><td></td><td>Up 56%</td></tr><tr><td>Professional Visualization</td><td>463</td><td>416</td><td>226</td><td>Up 11%</td><td>Up 105%</td></tr><tr><td>Automotive</td><td>281</td><td>261</td><td>294</td><td>Up 8%</td><td>Down 4%</td></tr><tr><td>OEM and Other</td><td>90</td><td>73</td><td>84</td><td>Up 23%</td><td>Up 7%</td></tr><tr><td>Total</td><td>$22,103</td><td>$18,120</td><td>$6,051</td><td>Up 22%</td><td>Up 265%</td></tr></table>"
+        },
+        "text": "($ in millions) Q4 FY24 Q4 FY23 Q/Q Y/Y Data Center $18,404 $14,514 $3,616 Up 27% Up 409% Gaming 2,865 2,856 1,831 -- Up 56% Professional Visualization 463 416 226 Up 11% Up 105% Automotive 281 261 294 Up 8% Down 4% OEM and Other 90 73 84 Up 23% Up 7%",
+        "type": "Table"
+    },
+    {
+        "element_id": "c9b3c38247f744e17dd26fda097d6a9b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        133.3,
+                        1894.1
+                    ],
+                    [
+                        133.3,
+                        1921.8
+                    ],
+                    [
+                        199.1,
+                        1921.8
+                    ],
+                    [
+                        199.1,
+                        1894.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1
+        },
+        "text": "Total",
+        "type": "Title"
+    },
+    {
+        "element_id": "45c0571a7d61775626bd0c565a7a46b2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        618.7,
+                        1894.1
+                    ],
+                    [
+                        618.7,
+                        1921.8
+                    ],
+                    [
+                        725.0,
+                        1921.8
+                    ],
+                    [
+                        725.0,
+                        1894.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "$22,103",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0c7c66068ceec2be8c58634652e3776e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        829.1,
+                        1894.1
+                    ],
+                    [
+                        829.1,
+                        1921.8
+                    ],
+                    [
+                        935.4,
+                        1921.8
+                    ],
+                    [
+                        935.4,
+                        1894.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "$18,120",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "dfb39978a5cabe59b7e44d402e122a03",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1056.2,
+                        1894.1
+                    ],
+                    [
+                        1056.2,
+                        1921.8
+                    ],
+                    [
+                        1145.8,
+                        1921.8
+                    ],
+                    [
+                        1145.8,
+                        1894.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "$6,051",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f20e4d82f1a7a775f1a88a20ef2df0c8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1257.0,
+                        1894.1
+                    ],
+                    [
+                        1257.0,
+                        1921.8
+                    ],
+                    [
+                        1356.2,
+                        1921.8
+                    ],
+                    [
+                        1356.2,
+                        1894.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "Up 22%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "03603143cd4363df7853dbeb3da7538b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1450.8,
+                        1894.1
+                    ],
+                    [
+                        1450.8,
+                        1921.8
+                    ],
+                    [
+                        1566.6,
+                        1921.8
+                    ],
+                    [
+                        1566.6,
+                        1894.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 1,
+            "parent_id": "c9b3c38247f744e17dd26fda097d6a9b"
+        },
+        "text": "Up 265%",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7e0f30467d90369c89c3bd304e0dd718",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        115.2
+                    ],
+                    [
+                        125.0,
+                        148.7
+                    ],
+                    [
+                        438.7,
+                        148.7
+                    ],
+                    [
+                        438.7,
+                        115.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.76275,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2
+        },
+        "text": "Fiscal 2024 Summary",
+        "type": "Title"
+    },
+    {
+        "element_id": "f277484faa5812d84c173f6c815d9b4f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        807.7,
+                        180.9
+                    ],
+                    [
+                        807.7,
+                        213.3
+                    ],
+                    [
+                        893.3,
+                        213.3
+                    ],
+                    [
+                        893.3,
+                        180.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.41235,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "7e0f30467d90369c89c3bd304e0dd718"
+        },
+        "text": "GAAP",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "fcbbe9ec5a5df25202508fb3215be135",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        123.5,
+                        197.6
+                    ],
+                    [
+                        123.5,
+                        518.5
+                    ],
+                    [
+                        1584.0,
+                        518.5
+                    ],
+                    [
+                        1584.0,
+                        197.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91105,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "7e0f30467d90369c89c3bd304e0dd718",
+            "text_as_html": "<table><tr><td>($ in millions, except earnings per share)</td><td>FY24</td><td>FY23</td><td>Y/Y</td></tr><tr><td>Revenue</td><td>$60,922</td><td>$26,974</td><td>Up 126%</td></tr><tr><td>Gross margin</td><td>72.7%</td><td>56.9%</td><td>Up 15.8 pts</td></tr><tr><td>Operating expenses</td><td>$11,329</td><td>$11,132</td><td>Up 2%</td></tr><tr><td>Operating income</td><td>$32,972</td><td>$4,224</td><td>Up 681%</td></tr><tr><td>Net income</td><td>$29,760</td><td>$4,368</td><td>Up 581%</td></tr><tr><td>Diluted earnings per share</td><td>$11.93</td><td>$1.74</td><td>Up 586%</td></tr></table>"
+        },
+        "text": "($ in millions, except earnings per share) FY24 FY23 Y/Y Revenue $60,922 $26,974 Up 126% Gross margin 72.7 % 56.9 % Up 15.8 pts Operating expenses $11,329 $11,132 Up 2% Operating income $32,972 $4,224 Up 681% Net income $29,760 $4,368 Up 581% Diluted earnings per share $11.93 $1.74 Up 586%",
+        "type": "Table"
+    },
+    {
+        "element_id": "a51db9aef3cea51a9267b55669589b44",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        771.3,
+                        560.7
+                    ],
+                    [
+                        771.3,
+                        593.8
+                    ],
+                    [
+                        930.4,
+                        593.8
+                    ],
+                    [
+                        930.4,
+                        560.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.49106,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "7e0f30467d90369c89c3bd304e0dd718"
+        },
+        "text": "Non-GAAP",
+        "type": "FigureCaption"
+    },
+    {
+        "element_id": "58292fb0dbcefb698d372bd55d9cd928",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        123.4,
+                        591.7
+                    ],
+                    [
+                        123.4,
+                        899.0
+                    ],
+                    [
+                        1585.9,
+                        899.0
+                    ],
+                    [
+                        1585.9,
+                        591.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92003,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "7e0f30467d90369c89c3bd304e0dd718",
+            "text_as_html": "<table><thead><th>($ in millions, except earnings per share)</th><th>FY24</th><th>FY23</th><th>YIY</th></thead><tr><td>Revenue</td><td>$60,922</td><td>$26,974</td><td>Up 126%</td></tr><tr><td>Gross margin</td><td>73.8%</td><td>59.2 %</td><td>Up 14.6 pts</td></tr><tr><td>Operating expenses</td><td>$7,825</td><td>$6,925</td><td>Up 13%</td></tr><tr><td>Operating income</td><td>$37,134</td><td>$9,040</td><td>Up 311%</td></tr><tr><td>Net income</td><td>$32,312</td><td>$8,366</td><td>Up 286%</td></tr><tr><td>Diluted earnings per share</td><td>$12.96</td><td>$3.34</td><td>Up 288%</td></tr></table>"
+        },
+        "text": "($ in millions, except earnings per share) FY24 FY23 Y/Y Revenue $60,922 $26,974 Up 126% Gross margin 73.8 % 59.2 % Up 14.6 pts Operating expenses $7,825 $6,925 Up 13% Operating income $37,134 $9,040 Up 311% Net income $32,312 $8,366 Up 286% Diluted earnings per share $12.96 $3.34 Up 288%",
+        "type": "Table"
+    },
+    {
+        "element_id": "5c254415713b25430c3f69ce7dd8d165",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        604.1,
+                        948.7
+                    ],
+                    [
+                        604.1,
+                        982.7
+                    ],
+                    [
+                        1099.3,
+                        982.7
+                    ],
+                    [
+                        1099.3,
+                        948.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.64211,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2
+        },
+        "text": "Revenue by Reportable Segments",
+        "type": "Title"
+    },
+    {
+        "element_id": "bbc85fe0514ce15eaed649413d956963",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.7,
+                        974.9
+                    ],
+                    [
+                        125.7,
+                        1156.3
+                    ],
+                    [
+                        1567.3,
+                        1156.3
+                    ],
+                    [
+                        1567.3,
+                        974.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.9005,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "5c254415713b25430c3f69ce7dd8d165",
+            "text_as_html": "<table><tr><td>($ in millions)</td><td>FY24</td><td>FY23</td><td>YIY</td></tr><tr><td>Compute &amp; Networking</td><td>$47,405</td><td>$15,068</td><td>Up 215%</td></tr><tr><td>Graphics</td><td>13,517</td><td>11,906</td><td>Up 14%</td></tr><tr><td>Total</td><td>$60,922</td><td>$26,974</td><td>Up 126%</td></tr></table>"
+        },
+        "text": "($ in millions) FY24 FY23 Y/Y Compute & Networking $47,405 $15,068 Up 215% Graphics 13,517 11,906 Up 14% Total $60,922 $26,974 Up 126%",
+        "type": "Table"
+    },
+    {
+        "element_id": "579de9e87456a50b92018f58eb13ec7b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        640.3,
+                        1202.8
+                    ],
+                    [
+                        640.3,
+                        1240.4
+                    ],
+                    [
+                        1059.9,
+                        1240.4
+                    ],
+                    [
+                        1059.9,
+                        1202.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.6514,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2
+        },
+        "text": "Revenue by Market Platform",
+        "type": "Title"
+    },
+    {
+        "element_id": "7c2ae7aab0bdfb5577fc9437669ef862",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        126.1,
+                        1242.1
+                    ],
+                    [
+                        126.1,
+                        1545.9
+                    ],
+                    [
+                        1579.7,
+                        1545.9
+                    ],
+                    [
+                        1579.7,
+                        1242.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93385,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "579de9e87456a50b92018f58eb13ec7b",
+            "text_as_html": "<table><tr><td>($ in millions)</td><td>FY24</td><td>FY23</td><td>YIY</td></tr><tr><td>Data Center</td><td>$47,525</td><td>$15,005</td><td>Up 217%</td></tr><tr><td>Gaming</td><td>10,447</td><td>9,067</td><td>Up 15%</td></tr><tr><td>Professional Visualization</td><td>1,553</td><td>1,544</td><td>Up 1%</td></tr><tr><td>Automotive</td><td>1,091</td><td>903</td><td>Up 21%</td></tr><tr><td>OEM and Other</td><td>306</td><td>455</td><td>Down 33%</td></tr><tr><td>Total</td><td>$60,922</td><td>$26,974</td><td>Up 126%</td></tr></table>"
+        },
+        "text": "($ in millions) FY24 FY23 Y/Y Data Center $47,525 $15,005 Up 217% Gaming 10,447 9,067 Up 15% Professional Visualization 1,553 1,544 Up 1% Automotive 1,091 903 Up 21% OEM and Other 306 455 Down 33% Total $60,922 $26,974 Up 126%",
+        "type": "Table"
+    },
+    {
+        "element_id": "9a08d2ea2c36b8d55268d890e7b97350",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1581.3
+                    ],
+                    [
+                        125.0,
+                        1728.0
+                    ],
+                    [
+                        1584.0,
+                        1728.0
+                    ],
+                    [
+                        1584.0,
+                        1581.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93198,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "579de9e87456a50b92018f58eb13ec7b"
+        },
+        "text": "We specialize in markets where our computing platforms can provide tremendous acceleration for applications. These platforms incorporate processors, interconnects, software, algorithms, systems and services to deliver unique value. Our platforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and Automotive.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "17502cc50796af37e87747a7cd3be0f6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1761.6
+                    ],
+                    [
+                        125.0,
+                        1798.0
+                    ],
+                    [
+                        249.7,
+                        1798.0
+                    ],
+                    [
+                        249.7,
+                        1761.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83923,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2
+        },
+        "text": "Revenue",
+        "type": "Title"
+    },
+    {
+        "element_id": "7384a63c9676ba43fea50aee5edce730",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1812.9
+                    ],
+                    [
+                        125.0,
+                        1888.0
+                    ],
+                    [
+                        1583.1,
+                        1888.0
+                    ],
+                    [
+                        1583.1,
+                        1812.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91426,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "17502cc50796af37e87747a7cd3be0f6"
+        },
+        "text": "Revenue for the fourth quarter was $22.1 billion, up 265% from a year ago and up 22% sequentially. Fiscal year revenue was $60.9 billion, up 126% from a year ago.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a1264cc8f2b030b827d6c6b38729a63d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        119.2,
+                        1914.3
+                    ],
+                    [
+                        119.2,
+                        2059.7
+                    ],
+                    [
+                        1585.5,
+                        2059.7
+                    ],
+                    [
+                        1585.5,
+                        1914.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93517,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 2,
+            "parent_id": "17502cc50796af37e87747a7cd3be0f6"
+        },
+        "text": "Data Center revenue for the fourth quarter was a record, up 409% from a year ago and up 27% sequentially. These increases reflect higher shipments of the NVIDIA Hopper GPU computing platform used for the training and inference of large language models, recommendation engines, and generative AI applications, along with InfiniBand end-to-end solutions. Data Center revenue for fiscal",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ed586eef19e9f4d5a909a19cec970fc2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        112.1
+                    ],
+                    [
+                        125.0,
+                        442.0
+                    ],
+                    [
+                        1583.9,
+                        442.0
+                    ],
+                    [
+                        1583.9,
+                        112.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95606,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "17502cc50796af37e87747a7cd3be0f6"
+        },
+        "text": "year 2024 was up 217%. In the fourth quarter, large cloud providers represented more than half of our Data Center revenue, supporting both internal workloads and external customers. Strong demand was driven by enterprise software and consumer internet applications, and multiple industry verticals including automotive, financial services, and healthcare. Customers across industry verticals access NVIDIA AI infrastructure both through the cloud and on-premises. Data Center sales to China declined significantly in the fourth quarter due to U.S. government licensing requirements. Data Center compute revenue was up 488% from a year ago and up 27% sequentially in the fourth quarter; it was up 244% in the fiscal year. Networking revenue was up 217% from a year ago and up 28% sequentially in the fourth quarter; it was up 133% in the fiscal year.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "86f8c156683a37775190aacb1bade96d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        467.3
+                    ],
+                    [
+                        125.0,
+                        613.7
+                    ],
+                    [
+                        1583.8,
+                        613.7
+                    ],
+                    [
+                        1583.8,
+                        467.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93085,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "17502cc50796af37e87747a7cd3be0f6"
+        },
+        "text": "Gaming revenue was up 56% from a year ago and flat sequentially. Fiscal year revenue was up 15%. The year-on-year increases for the quarter and fiscal year reflect higher sell-in to partners following the normalization of channel inventory levels and growing demand. The launch of our GeForce RTX 40 SUPER Series family of GPUs also contributed to revenue in the quarter.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "76d07d93c5ad2c19ac7d6fa0534e8570",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        640.5
+                    ],
+                    [
+                        125.0,
+                        785.4
+                    ],
+                    [
+                        1583.7,
+                        785.4
+                    ],
+                    [
+                        1583.7,
+                        640.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93354,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "17502cc50796af37e87747a7cd3be0f6"
+        },
+        "text": "Professional Visualization revenue was up 105% from a year ago and up 11% sequentially. Fiscal year revenue was up 1%. The year-on-year increase for the quarter primarily reflects higher sell-in to partners following normalization of channel inventory levels. The sequential increase was primarily due to the ramp of desktop workstations based on the Ada Lovelace GPU architecture.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f53e9ae08814706f9e7c8c35c28b4122",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        812.8
+                    ],
+                    [
+                        125.0,
+                        957.0
+                    ],
+                    [
+                        1583.7,
+                        957.0
+                    ],
+                    [
+                        1583.7,
+                        812.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93747,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "17502cc50796af37e87747a7cd3be0f6"
+        },
+        "text": "Automotive revenue was down 4% from a year ago and up 8% sequentially. Fiscal year revenue was up 21%. The sequential increase was driven by self-driving platforms. The year-on-year decrease for the quarter was driven by AI Cockpit, offset by an increase in self-driving platforms. The year-on-year increase for the fiscal year primarily reflected growth in self-driving platforms.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "79ab79e53d786ebe19292e87d9ba5dab",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        124.8,
+                        990.3
+                    ],
+                    [
+                        124.8,
+                        1027.0
+                    ],
+                    [
+                        324.4,
+                        1027.0
+                    ],
+                    [
+                        324.4,
+                        990.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84987,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3
+        },
+        "text": "Gross Margin",
+        "type": "Title"
+    },
+    {
+        "element_id": "0e7dda8868c85ff5e3d14827e948126f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1043.7
+                    ],
+                    [
+                        125.0,
+                        1190.4
+                    ],
+                    [
+                        1583.6,
+                        1190.4
+                    ],
+                    [
+                        1583.6,
+                        1043.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93808,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "79ab79e53d786ebe19292e87d9ba5dab"
+        },
+        "text": "GAAP and non-GAAP gross margins for the fourth quarter increased significantly from a year ago and sequentially on strong Data Center revenue growth primarily driven by our Hopper GPU computing platform. Our gross margins in the fourth quarter also benefited from favorable component costs.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8f8042e70e6a645c77f3036841e65b3e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        124.9,
+                        1214.6
+                    ],
+                    [
+                        124.9,
+                        1288.7
+                    ],
+                    [
+                        1583.6,
+                        1288.7
+                    ],
+                    [
+                        1583.6,
+                        1214.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92063,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "79ab79e53d786ebe19292e87d9ba5dab"
+        },
+        "text": "Fiscal year GAAP and Non-GAAP gross margin increased, primarily driven by Data Center revenue growth and lower net inventory provisions as a percentage of revenue.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1c177f0d722399625a214b0ea22234d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1322.5
+                    ],
+                    [
+                        125.0,
+                        1358.7
+                    ],
+                    [
+                        264.3,
+                        1358.7
+                    ],
+                    [
+                        264.3,
+                        1322.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84686,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3
+        },
+        "text": "Expenses",
+        "type": "Title"
+    },
+    {
+        "element_id": "e06f80cc0d9d6b5ec9939e3fee266996",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1376.6
+                    ],
+                    [
+                        125.0,
+                        1632.0
+                    ],
+                    [
+                        1583.7,
+                        1632.0
+                    ],
+                    [
+                        1583.7,
+                        1376.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95467,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "1c177f0d722399625a214b0ea22234d2"
+        },
+        "text": "GAAP operating expenses for the fourth quarter were up 23% from a year ago and up 6% sequentially. The year-on-year increase was driven by compensation and benefits, including stock- based compensation, primarily reflecting growth in employees and compensation increases. The sequential increase reflected higher compute and infrastructure investments. Fiscal 2024 GAAP operating expenses were up 2% from a year ago, driven by growth in employees and compensation increases; the comparison was affected by a $1.4 billion acquisition termination charge related to the proposed Arm transaction in the prior year.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9d228a42bb892b0f40f292e0a5e2f016",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        122.6,
+                        1656.4
+                    ],
+                    [
+                        122.6,
+                        1840.4
+                    ],
+                    [
+                        1583.9,
+                        1840.4
+                    ],
+                    [
+                        1583.9,
+                        1656.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.954,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "1c177f0d722399625a214b0ea22234d2"
+        },
+        "text": "Non-GAAP operating expenses for the fourth quarter were up 25% from a year ago and up 9% sequentially. The year-on-year increase was driven by growth in employees and compensation increases. The sequential increase reflected higher compute and infrastructure investments. Fiscal year non-GAAP operating expenses were up 13% from a year ago, reflecting growth in employees and compensation increases.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6afb65f33972f4388006fc009b0dd18b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1873.0
+                    ],
+                    [
+                        125.0,
+                        1910.4
+                    ],
+                    [
+                        725.5,
+                        1910.4
+                    ],
+                    [
+                        725.5,
+                        1873.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.84923,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3
+        },
+        "text": "Other Income & Expense and Income Tax",
+        "type": "Title"
+    },
+    {
+        "element_id": "8849587f38b8996182b353174421d14f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1924.5
+                    ],
+                    [
+                        125.0,
+                        2073.7
+                    ],
+                    [
+                        1583.5,
+                        2073.7
+                    ],
+                    [
+                        1583.5,
+                        1924.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93799,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 3,
+            "parent_id": "6afb65f33972f4388006fc009b0dd18b"
+        },
+        "text": "GAAP other income and expense (OI&E) includes interest income, interest expense, gains and losses from non-affiliated investments and other. Non-GAAP OI&E excludes the gains or losses from non- affiliated investments and the portion of interest expense from the amortization of the debt discount.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6419dbe5d0e0ba67d8d7f22ce8a51801",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        112.2
+                    ],
+                    [
+                        125.0,
+                        295.4
+                    ],
+                    [
+                        1583.7,
+                        295.4
+                    ],
+                    [
+                        1583.7,
+                        112.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95196,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "6afb65f33972f4388006fc009b0dd18b"
+        },
+        "text": "Interest income for the fourth quarter was $294 million, up from a year ago and sequentially, primarily reflecting higher cash balances. Fiscal year interest income was $866 million, up from $267 million in the prior year, reflecting higher yields and cash balances. Net gains from non-affiliated investments for the fourth quarter were $260 million and for the fiscal year were $238 million, reflecting fair value adjustments.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "71c4d463d13f5fad03f9d18d9c248438",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        320.5
+                    ],
+                    [
+                        125.0,
+                        540.4
+                    ],
+                    [
+                        1584.6,
+                        540.4
+                    ],
+                    [
+                        1584.6,
+                        320.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95493,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "6afb65f33972f4388006fc009b0dd18b"
+        },
+        "text": "GAAP effective tax rate for the fourth quarter was 12.9%, and for the fiscal year was 12.0%, an increase from the prior year reflecting a lower impact of tax benefits from the foreign derived intangible income deduction, stock-based compensation, and the U.S. research tax credit, relative to the increase in income before income tax. The increase in the effective tax rate was partially offset by a benefit due to an Internal Revenue Service audit resolution during the fiscal year. Non-GAAP effective tax rate for the fourth quarter and fiscal year was 14.3% and 14.4%, respectively.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "394f6209c2db2e403549ec0f89ed3e81",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        572.3
+                    ],
+                    [
+                        125.0,
+                        610.4
+                    ],
+                    [
+                        555.6,
+                        610.4
+                    ],
+                    [
+                        555.6,
+                        572.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.86348,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4
+        },
+        "text": "Balance Sheet and Cash Flow",
+        "type": "Title"
+    },
+    {
+        "element_id": "b1a69b5591598ada456d85e2daf8f1ad",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        626.5
+                    ],
+                    [
+                        125.0,
+                        737.0
+                    ],
+                    [
+                        1583.5,
+                        737.0
+                    ],
+                    [
+                        1583.5,
+                        626.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93088,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "394f6209c2db2e403549ec0f89ed3e81"
+        },
+        "text": "Cash, cash equivalents and marketable securities were $26.0 billion, up from $13.3 billion a year ago and $18.3 billion a quarter ago. The increases primarily reflect higher revenue partially offset by taxes paid and stock repurchases.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "fa2e1774fa7f9eabc99d625d3415156a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        761.7
+                    ],
+                    [
+                        125.0,
+                        872.0
+                    ],
+                    [
+                        1583.5,
+                        872.0
+                    ],
+                    [
+                        1583.5,
+                        761.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93261,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "394f6209c2db2e403549ec0f89ed3e81"
+        },
+        "text": "Accounts receivable was $10.0 billion with days sales outstanding (DSO) of 41. Accounts receivable was reduced by approximately $557 million from customer payments received prior to the invoice due date.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "9f6d85cc377365426132027afa87f431",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        123.6,
+                        896.1
+                    ],
+                    [
+                        123.6,
+                        1080.4
+                    ],
+                    [
+                        1587.9,
+                        1080.4
+                    ],
+                    [
+                        1587.9,
+                        896.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95075,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "394f6209c2db2e403549ec0f89ed3e81"
+        },
+        "text": "Inventory was $5.3 billion with days sales of inventory (DSI) of 90. Purchase commitments and obligations for inventory and manufacturing capacity were $16.1 billion, down sequentially due to shortening lead times for certain components. Prepaid supply agreements were $5.0 billion. Other non-inventory purchase obligations were $4.6 billion, which includes $3.5 billion of multi-year cloud service agreements, largely to support our research and development efforts.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "72389bc05572c12cc900204cdaf670c9",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1105.3
+                    ],
+                    [
+                        125.0,
+                        1288.7
+                    ],
+                    [
+                        1583.9,
+                        1288.7
+                    ],
+                    [
+                        1583.9,
+                        1105.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.94808,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "394f6209c2db2e403549ec0f89ed3e81"
+        },
+        "text": "Cash flow from operating activities for the fourth quarter was $11.5 billion, up from $2.2 billion a year ago and $7.3 billion a quarter ago. Fiscal year cash flow from operating activities was $28.1 billion, up from $5.6 billion a year ago. The sequential and year-on-year increases for the quarter and fiscal year reflect higher revenue. We paid $6.5 billion in cash taxes in fiscal 2024, up from $1.4 billion in fiscal 2023.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2371ef7327802a2606bc56195dbb4132",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1312.9
+                    ],
+                    [
+                        125.0,
+                        1570.4
+                    ],
+                    [
+                        1584.0,
+                        1570.4
+                    ],
+                    [
+                        1584.0,
+                        1312.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95462,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "394f6209c2db2e403549ec0f89ed3e81"
+        },
+        "text": "Depreciation and amortization expense was $387 million for the fourth quarter and $1.5 billion for the fiscal year, including amortization of acquisition-related intangible assets. Starting in fiscal 2024, we extended the useful lives of most of our servers, storage, and network equipment from three years to a range of four to five years, and assembly and test equipment from five to seven years. This change in useful lives drove a favorable impact to operating expenses of $19 million in the fourth quarter and $102 million in fiscal 2024, and to cost of revenue of $9 million in the fourth quarter and $33 million in fiscal 2024.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3b29a78b2c7667f4a1f4e661c15c9bd1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1593.8
+                    ],
+                    [
+                        125.0,
+                        1742.0
+                    ],
+                    [
+                        1583.5,
+                        1742.0
+                    ],
+                    [
+                        1583.5,
+                        1593.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.93856,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "394f6209c2db2e403549ec0f89ed3e81"
+        },
+        "text": "In the fourth quarter, we utilized cash of $2.8 billion towards shareholder returns, including $2.7 billion in share repurchases and $99 million in cash dividends. In fiscal 2024, we utilized cash of $9.9 billion towards shareholder returns, including $9.5 billion in share repurchases and $395 million in cash dividends.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "36b150b0e3837c91a207dcd142acf8cd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        124.8,
+                        1772.5
+                    ],
+                    [
+                        124.8,
+                        1812.0
+                    ],
+                    [
+                        657.8,
+                        1812.0
+                    ],
+                    [
+                        657.8,
+                        1772.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.85733,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4
+        },
+        "text": "First Quarter of Fiscal 2025 Outlook",
+        "type": "Title"
+    },
+    {
+        "element_id": "79b3689a00cb979360ec6165233ea0b8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1829.0
+                    ],
+                    [
+                        125.0,
+                        1865.4
+                    ],
+                    [
+                        927.8,
+                        1865.4
+                    ],
+                    [
+                        927.8,
+                        1829.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.87082,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "Outlook for the first quarter of fiscal 2025 is as follows:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "7e63aceabdc520a16d698fe6a1585d63",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        169.3,
+                        1888.5
+                    ],
+                    [
+                        169.3,
+                        1927.0
+                    ],
+                    [
+                        1051.6,
+                        1927.0
+                    ],
+                    [
+                        1051.6,
+                        1888.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.83641,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "\u2022 Revenue is expected to be $24.0 billion, plus or minus 2%.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "7a02c95a31366b36cae78c099bbceedd",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        175.0,
+                        1953.1
+                    ],
+                    [
+                        175.0,
+                        2025.4
+                    ],
+                    [
+                        1583.5,
+                        2025.4
+                    ],
+                    [
+                        1583.5,
+                        1953.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90196,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 4,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "\u2022 GAAP and non-GAAP gross margins are expected to be 76.3% and 77.0%, respectively, plus or minus 50 basis points.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "2f4bcb0b803ecf14a3e2cdf3ccbb5a0b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        175.0,
+                        115.8
+                    ],
+                    [
+                        175.0,
+                        185.4
+                    ],
+                    [
+                        1583.2,
+                        185.4
+                    ],
+                    [
+                        1583.2,
+                        115.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90433,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "\u2022 GAAP and non-GAAP operating expenses are expected to be approximately $3.5 billion and $2.5 billion, respectively.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "9f0216bd269418496dbb9cdbda219832",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        173.0,
+                        212.0
+                    ],
+                    [
+                        173.0,
+                        283.7
+                    ],
+                    [
+                        1583.3,
+                        283.7
+                    ],
+                    [
+                        1583.3,
+                        212.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91872,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "\u2022 GAAP and non-GAAP other income and expense are expected to be an income of approximately $250 million, excluding gains and losses from non-affiliated investments.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "82bbb3aa4de2424f18f21d5f88ec80c6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        168.3,
+                        309.4
+                    ],
+                    [
+                        168.3,
+                        382.0
+                    ],
+                    [
+                        1583.2,
+                        382.0
+                    ],
+                    [
+                        1583.2,
+                        309.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90236,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "\u2022 GAAP and non-GAAP tax rates are expected to be 17.0%, plus or minus 1%, excluding any discrete items.",
+        "type": "ListItem"
+    },
+    {
+        "element_id": "a41a7645d53669c00eaa0aa82c5a47d5",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        643.8,
+                        421.5
+                    ],
+                    [
+                        643.8,
+                        452.0
+                    ],
+                    [
+                        1056.2,
+                        452.0
+                    ],
+                    [
+                        1056.2,
+                        421.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "___________________________",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "fa34b61741befd32abfed221b767005f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        484.5
+                    ],
+                    [
+                        125.0,
+                        522.0
+                    ],
+                    [
+                        597.9,
+                        522.0
+                    ],
+                    [
+                        597.9,
+                        484.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69584,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "For further information, contact:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "2894446a4d067434bdce81bf5985c1a8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        132.3,
+                        550.7
+                    ],
+                    [
+                        132.3,
+                        710.6
+                    ],
+                    [
+                        469.8,
+                        710.6
+                    ],
+                    [
+                        469.8,
+                        550.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.66465,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "Simona Jankowski Investor Relations NVIDIA Corporation sjankowski@nvidia.com",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "1566b2d523dc7de25766f6d07c0f0f59",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1048.6,
+                        553.2
+                    ],
+                    [
+                        1048.6,
+                        710.6
+                    ],
+                    [
+                        1456.2,
+                        710.6
+                    ],
+                    [
+                        1456.2,
+                        553.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.71125,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "36b150b0e3837c91a207dcd142acf8cd"
+        },
+        "text": "Mylene Mangalindan Corporate Communications NVIDIA Corporation mmangalindan@nvidia.com",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ca68708d8fe697270b9863b374801fcc",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        752.7
+                    ],
+                    [
+                        125.0,
+                        789.2
+                    ],
+                    [
+                        435.6,
+                        789.2
+                    ],
+                    [
+                        435.6,
+                        752.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.8313,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5
+        },
+        "text": "Non-GAAP Measures",
+        "type": "Title"
+    },
+    {
+        "element_id": "6af4ad31aa2c52b94a9b13a129f54810",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        124.9,
+                        808.7
+                    ],
+                    [
+                        124.9,
+                        1465.9
+                    ],
+                    [
+                        1584.0,
+                        1465.9
+                    ],
+                    [
+                        1584.0,
+                        808.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95052,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "ca68708d8fe697270b9863b374801fcc"
+        },
+        "text": "To supplement NVIDIA\u2019s condensed consolidated financial statements presented in accordance with GAAP, the company uses non-GAAP measures of certain components of financial performance. These non-GAAP measures include non-GAAP gross profit, non-GAAP gross margin, non-GAAP operating expenses, non-GAAP income from operations, non-GAAP other income (expense), net, non- GAAP net income, non-GAAP net income, or earnings, per diluted share, and free cash flow. In order for NVIDIA\u2019s investors to be better able to compare its current results with those of previous periods, the company has shown a reconciliation of GAAP to non-GAAP financial measures. These reconciliations adjust the related GAAP financial measures to exclude acquisition termination costs, stock-based compensation expense, acquisition-related and other costs, IP-related costs, other, gains and losses from non-affiliated investments, interest expense related to amortization of debt discount, and the associated tax impact of these items where applicable. Free cash flow is calculated as GAAP net cash provided by operating activities less both purchases related to property and equipment and intangible assets and principal payments on property and equipment and intangible assets. NVIDIA believes the presentation of its non-GAAP financial measures enhances the user's overall understanding of the company\u2019s historical financial performance. The presentation of the company\u2019s non-GAAP financial measures is not meant to be considered in isolation or as a substitute for the company\u2019s financial results prepared in accordance with GAAP, and the company\u2019s non-GAAP measures may be different from non-GAAP measures used by other companies.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "ebdffe0099808b4366f215b2b5a40afa",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        1492.5
+                    ],
+                    [
+                        125.0,
+                        1942.1
+                    ],
+                    [
+                        1583.2,
+                        1942.1
+                    ],
+                    [
+                        1583.2,
+                        1492.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.95567,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "ca68708d8fe697270b9863b374801fcc"
+        },
+        "text": "Certain statements in this CFO Commentary including, but not limited to, statements as to: our computing platforms providing tremendous acceleration for applications and delivering unique value; markets where our expertise is critical; and our financial outlook and expected tax rates for the first quarter of fiscal 2025 are forward-looking statements that are subject to risks and uncertainties that could cause results to be materially different than expectations. Important factors that could cause actual results to differ materially include: global economic conditions; our reliance on third parties to manufacture, assemble, package and test our products; the impact of technological development and competition; development of new products and technologies or enhancements to our existing product and technologies; market acceptance of our products or our partners\u2019 products; design, manufacturing or software defects; changes in consumer preferences or demands; changes in industry standards and interfaces; and unexpected loss of performance of our products or technologies when integrated into systems; as well as other factors detailed from time to time in the most recent reports NVIDIA files with the Securities and Exchange Commission, or SEC, including, but not limited to, its annual report on Form 10-K and quarterly reports on Form 10-Q. Copies of reports filed with the SEC are posted on the company\u2019s website and are available from NVIDIA without charge. These forward-looking statements are not guarantees of future performance and speak only as of the date hereof, and, except as required by law, NVIDIA disclaims any obligation to update these forward-looking statements to reflect future events or circumstances.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "af59e130a13cad5b2a53fa888a807881",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        819.1,
+                        1968.5
+                    ],
+                    [
+                        819.1,
+                        1997.1
+                    ],
+                    [
+                        881.2,
+                        1997.1
+                    ],
+                    [
+                        881.2,
+                        1968.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.69292,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5
+        },
+        "text": "# # #",
+        "type": "Title"
+    },
+    {
+        "element_id": "cf940e2da6291c772ff78e9c32b1cc96",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        122.5,
+                        2023.1
+                    ],
+                    [
+                        122.5,
+                        2082.1
+                    ],
+                    [
+                        1582.6,
+                        2082.1
+                    ],
+                    [
+                        1582.6,
+                        2023.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91674,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 5,
+            "parent_id": "af59e130a13cad5b2a53fa888a807881"
+        },
+        "text": "\u00a9 2024 NVIDIA Corporation. All rights reserved. NVIDIA and the NVIDIA logo are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and/or other countries. Other company and product names may be trademarks of the",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "6d15b395a12d38c7f3ad00856c306deb",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        125.0,
+                        113.8
+                    ],
+                    [
+                        125.0,
+                        173.2
+                    ],
+                    [
+                        1582.2,
+                        173.2
+                    ],
+                    [
+                        1582.2,
+                        113.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90493,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 6,
+            "parent_id": "af59e130a13cad5b2a53fa888a807881"
+        },
+        "text": "respective companies with which they are associated. Features, pricing, availability, and specifications are subject to change without notice.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "c7b1511a5d0aa8423f5809015d82184b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        373.6,
+                        129.4
+                    ],
+                    [
+                        373.6,
+                        244.9
+                    ],
+                    [
+                        1357.5,
+                        244.9
+                    ],
+                    [
+                        1357.5,
+                        129.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "af59e130a13cad5b2a53fa888a807881"
+        },
+        "text": "NVIDIA CORPORATION RECONCILIATION OF GAAP TO NON-GAAP FINANCIAL MEASURES (In millions, except per share data)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "5a659b748762de57d3eef8b5b813523e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        782.2,
+                        255.1
+                    ],
+                    [
+                        782.2,
+                        286.6
+                    ],
+                    [
+                        947.9,
+                        286.6
+                    ],
+                    [
+                        947.9,
+                        255.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.43008,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "af59e130a13cad5b2a53fa888a807881"
+        },
+        "text": "(Unaudited)",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "875293c7be3f317ffead73d8ca82fe59",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.8,
+                        340.4
+                    ],
+                    [
+                        138.8,
+                        1901.7
+                    ],
+                    [
+                        1569.6,
+                        1901.7
+                    ],
+                    [
+                        1569.6,
+                        340.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.91199,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "af59e130a13cad5b2a53fa888a807881",
+            "text_as_html": "<table><thead><th></th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"3\" rowspan=\"2\">October29 2023</th><th>January 29,</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th rowspan=\"2\"></th><th rowspan=\"2\">January 29, 2023</th></thead><thead><th></th><th colspan=\"2\"></th><th colspan=\"3\"></th><th>2023</th><th colspan=\"2\"></th><th></th><th></th></thead><tr><td>GAAP gross profit</td><td>$</td><td>16,791</td><td>$</td><td>13,400</td><td>$</td><td>3,833</td><td>$</td><td>44,301</td><td>$</td><td>15,356</td></tr><tr><td>GAAP gross margin</td><td></td><td>76.0 %</td><td></td><td>74.0 %</td><td></td><td>63.3 %</td><td></td><td>72.7 %</td><td></td><td>56.9</td></tr><tr><td>Acquisition-related and other costs (A)</td><td></td><td>119</td><td></td><td>119</td><td></td><td>120</td><td></td><td>477</td><td></td><td>455</td></tr><tr><td>Stock-based compensation expense (B)</td><td></td><td>45</td><td></td><td>38</td><td></td><td>30</td><td></td><td>141</td><td></td><td>138</td></tr><tr><td>IP-related costs</td><td></td><td>4</td><td></td><td>26</td><td></td><td>16</td><td></td><td>40</td><td></td><td>16</td></tr><tr><td>Non-GAAP gross profit</td><td>$</td><td>16,959</td><td>$</td><td>13,583</td><td>$</td><td>3,999</td><td>$</td><td>44,959</td><td>$</td><td>15,965</td></tr><tr><td>Non-GAAP gross margin</td><td></td><td>76.7 %</td><td></td><td>75.0 %</td><td></td><td>66.1 %</td><td></td><td>73.8 %</td><td></td><td>59.2 %</td></tr><tr><td>GAAP operating expenses</td><td>$</td><td>3,176</td><td>$</td><td>2,983</td><td>$</td><td>2,576</td><td>$</td><td>11,329</td><td>$</td><td>11,132</td></tr><tr><td>Stock-based compensation expense (B)</td><td></td><td>(948)</td><td></td><td>(941)</td><td></td><td>(709)</td><td></td><td>(3,408)</td><td></td><td>(2,572)</td></tr><tr><td>Acquisition-related and other costs (A)</td><td></td><td>(18)</td><td></td><td>(16)</td><td></td><td>(54)</td><td></td><td>(106)</td><td></td><td>(219)</td></tr><tr><td>termination</td><td></td><td>\u2014</td><td></td><td>\u2014</td><td></td><td>\u2014</td><td></td><td></td><td></td><td></td></tr><tr><td>Acquisition cost</td><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>_\u2014</td><td></td><td>(1,353)</td></tr><tr><td>Other (C)</td><td></td><td>_</td><td></td><td>_</td><td></td><td>(38)</td><td></td><td>10</td><td></td><td>(63)</td></tr><tr><td>Non-GAAP operating expenses</td><td>$</td><td>2,210</td><td>$</td><td>2,026</td><td>$</td><td>1,775</td><td>$</td><td>7,825</td><td>$</td><td>6,925</td></tr><tr><td>GAAP operating income</td><td>$</td><td>13,615</td><td>$</td><td>10,417</td><td>$</td><td>1,257</td><td>$</td><td>32,972</td><td>$</td><td>4,224</td></tr><tr><td>Total impact of non-GAAP adjustments to operating income</td><td></td><td>1,134</td><td></td><td>1,140</td><td></td><td>967</td><td></td><td>4,162</td><td></td><td>4,816</td></tr><tr><td>Non-GAAP operating income</td><td>$</td><td>14,749</td><td>$</td><td>11,557</td><td>$</td><td>2,224</td><td>$</td><td>37,134</td><td>$</td><td>9,040</td></tr><tr><td>GAAP other income (expense), net</td><td>$</td><td>491</td><td>$</td><td>105</td><td>$</td><td>32</td><td>$</td><td>846</td><td></td><td>(43)</td></tr><tr><td>(Gains) losses from non-affiliated investments</td><td></td><td>(260)</td><td></td><td>69</td><td></td><td>10</td><td></td><td>(238)</td><td></td><td>45</td></tr><tr><td>Interest expense related to amortization of debt discount</td><td></td><td>1</td><td></td><td>1</td><td></td><td>1</td><td></td><td>4</td><td></td><td>5</td></tr><tr><td>Non-GAAP other income (expense), net</td><td>$</td><td>232</td><td>$</td><td>175</td><td>$</td><td>43</td><td>$</td><td>612</td><td>$</td><td>7</td></tr><tr><td>GAAP net income</td><td>$</td><td>12,285</td><td>$</td><td>9,243</td><td>$</td><td>1,414</td><td>$</td><td>29,760</td><td>$</td><td>4,368</td></tr><tr><td>Total pre-tax impact of non-GAAP adjustments</td><td></td><td>875</td><td></td><td>1,210</td><td></td><td>978</td><td></td><td>3,928</td><td></td><td>4,865</td></tr></table>"
+        },
+        "text": "Three Months Ended Twelve Months Ended January 28, October 29 January 29, January 28, January 29, 2024 2023 2023 2024 2023 $ 16,791 $ 13,400 $ 3,833 $ 44,301 $ 15,356 GAAP gross margin 76.0 % 74.0 % 63.3 % 72.7 % 56.9 % Acquisition-related and other costs (A) Stock-based compensation expense (B) IP-related costs 119 45 4 119 38 26 120 30 16 477 141 40 455 138 16 Non-GAAP gross profit $ 16,959 $ 13,583 $ 3,999 $ 44,959 $ 15,965 Non-GAAP gross margin 76.7 % 75.0 % 66.1 % 73.8 % 59.2 % GAAP operating expenses $ 3,176 $ 2,983 $ 2,576 $ 11,329 $ 11,132 Stock-based compensation expense (B) Acquisition-related and other costs (A) (948) (18) (941) (16) (709) (54) (3,408) (106) (2,572) (219) Acquisition termination cost \u2014 \u2014 \u2014 \u2014 (1,353) Other (C) \u2014 \u2014 (38) 10 (63) Non-GAAP operating expenses $ 2,210 $ 2,026 $ 1,775 $ 7,825 $ 6,925 GAAP operating income $ 13,615 $ 10,417 $ 1,257 $ 32,972 $ 4,224 Total impact of non-GAAP adjustments to operating income 1,134 1,140 967 4,162 4,816 Non-GAAP operating income $ 14,749 $ 11,557 $ 2,224 $ 37,134 $ 9,040 GAAP other income (expense), net $ 491 $ 105 $ 32 $ 846 $ (43) (Gains) losses from non-affiliated investments Interest expense related to amortization of debt discount Non-GAAP other income (expense), net $ (260) 1 232 $ 69 1 175 $ 10 1 43 $ (238) 4 612 $ 45 5 7 $ 12,285 $ 9,243 $ 1,414 $ 29,760 $ 4,368 875 1,210 978 3,928 4,865",
+        "type": "Table"
+    },
+    {
+        "element_id": "4cfb97b0be47ed78dac17cd115423802",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        136.5,
+                        513.0
+                    ],
+                    [
+                        136.5,
+                        540.7
+                    ],
+                    [
+                        371.6,
+                        540.7
+                    ],
+                    [
+                        371.6,
+                        513.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7
+        },
+        "text": "GAAP gross profit",
+        "type": "Title"
+    },
+    {
+        "element_id": "2554fe507d5c95f8685182472cdd6269",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        136.5,
+                        1738.0
+                    ],
+                    [
+                        136.5,
+                        1765.8
+                    ],
+                    [
+                        363.8,
+                        1765.8
+                    ],
+                    [
+                        363.8,
+                        1738.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7
+        },
+        "text": "GAAP net income",
+        "type": "Title"
+    },
+    {
+        "element_id": "19b35703f247cd78b12b5f3ceb4aecd0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        136.5,
+                        1779.3
+                    ],
+                    [
+                        136.5,
+                        1944.9
+                    ],
+                    [
+                        638.5,
+                        1944.9
+                    ],
+                    [
+                        638.5,
+                        1779.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "Total pre-tax impact of non-GAAP adjustments Income tax impact of non-GAAP adjustments (D) Non-GAAP net income",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "9e499d00c828e940f6b9c1a6620ea6f8",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        751.6,
+                        1876.5
+                    ],
+                    [
+                        751.6,
+                        1904.3
+                    ],
+                    [
+                        825.6,
+                        1904.3
+                    ],
+                    [
+                        825.6,
+                        1876.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "(321)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "568db76008f70a7b85efd27753c04d63",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        682.3,
+                        1918.2
+                    ],
+                    [
+                        682.3,
+                        1946.0
+                    ],
+                    [
+                        816.9,
+                        1946.0
+                    ],
+                    [
+                        816.9,
+                        1918.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "$ 12,839",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "ba42073cb83234bbe40e73410c1eb232",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        932.8,
+                        1876.5
+                    ],
+                    [
+                        932.8,
+                        1904.3
+                    ],
+                    [
+                        1006.8,
+                        1904.3
+                    ],
+                    [
+                        1006.8,
+                        1876.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "(433)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0f92da4eab90f81a2edcab3f55a92a14",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        863.6,
+                        1918.2
+                    ],
+                    [
+                        863.6,
+                        1946.0
+                    ],
+                    [
+                        998.2,
+                        1946.0
+                    ],
+                    [
+                        998.2,
+                        1918.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "$ 10,020",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d8a62b8d30e2abcbea3bef2575f4f73f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1114.1,
+                        1876.5
+                    ],
+                    [
+                        1114.1,
+                        1904.3
+                    ],
+                    [
+                        1188.1,
+                        1904.3
+                    ],
+                    [
+                        1188.1,
+                        1876.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "(218)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "bd1908865558277856ebd7a83901de23",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1044.8,
+                        1918.2
+                    ],
+                    [
+                        1044.8,
+                        1946.0
+                    ],
+                    [
+                        1179.4,
+                        1946.0
+                    ],
+                    [
+                        1179.4,
+                        1918.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "$ 2,174",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "650677b478b67ea5ee57959235771e54",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1272.4,
+                        1876.5
+                    ],
+                    [
+                        1272.4,
+                        1904.3
+                    ],
+                    [
+                        1369.3,
+                        1904.3
+                    ],
+                    [
+                        1369.3,
+                        1876.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "(1,376)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7f433791c3638dcdebf5fb104d945391",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1226.1,
+                        1918.2
+                    ],
+                    [
+                        1226.1,
+                        1946.0
+                    ],
+                    [
+                        1360.7,
+                        1946.0
+                    ],
+                    [
+                        1360.7,
+                        1918.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "$ 32,312",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "2f6b8bb13e6913f0c11a95e4574acf23",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1476.6,
+                        1876.5
+                    ],
+                    [
+                        1476.6,
+                        1904.3
+                    ],
+                    [
+                        1550.6,
+                        1904.3
+                    ],
+                    [
+                        1550.6,
+                        1876.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "(867)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "16ee498b5a891e6e7bc4e3fdaad0b89a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1407.3,
+                        1918.2
+                    ],
+                    [
+                        1407.3,
+                        1946.0
+                    ],
+                    [
+                        1541.9,
+                        1946.0
+                    ],
+                    [
+                        1541.9,
+                        1918.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 7,
+            "parent_id": "2554fe507d5c95f8685182472cdd6269"
+        },
+        "text": "$ 8,366",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "015136f3b935a011bf55bd3b42d71980",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        802.0,
+                        129.6
+                    ],
+                    [
+                        802.0,
+                        157.4
+                    ],
+                    [
+                        1077.2,
+                        157.4
+                    ],
+                    [
+                        1077.2,
+                        129.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8
+        },
+        "text": "Three Months Ended",
+        "type": "Title"
+    },
+    {
+        "element_id": "0b1753f0fcdb65706645d438babb10d2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1246.4,
+                        130.7
+                    ],
+                    [
+                        1246.4,
+                        158.5
+                    ],
+                    [
+                        1539.0,
+                        158.5
+                    ],
+                    [
+                        1539.0,
+                        130.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8
+        },
+        "text": "Twelve Months Ended",
+        "type": "Title"
+    },
+    {
+        "element_id": "5c4f9123d6fe7b7d899943e6a8722fb0",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        146.6,
+                        155.4
+                    ],
+                    [
+                        146.6,
+                        804.4
+                    ],
+                    [
+                        1567.2,
+                        804.4
+                    ],
+                    [
+                        1567.2,
+                        155.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.92733,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "0b1753f0fcdb65706645d438babb10d2",
+            "text_as_html": "<table><thead><th rowspan=\"3\">diluted net income per share</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"3\" rowspan=\"2\">October 29 2023</th><th colspan=\"2\" rowspan=\"2\">January 29, 2023</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"2\" rowspan=\"2\">January 29, 2023</th></thead><thead><th></th><th colspan=\"2\"></th><th colspan=\"3\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th></thead><thead><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th><th></th></thead><tr><td>GAAP</td><td>$</td><td>493</td><td>$</td><td></td><td>3.71</td><td>$</td><td>057</td><td>$\u00a2$</td><td>11.93</td><td>$</td><td>1.74</td></tr><tr><td>Non-GAAP</td><td>$</td><td>5.16</td><td>$</td><td></td><td>402</td><td>$</td><td>088</td><td>$\u00a2$</td><td>12.96</td><td>$</td><td>3.34</td></tr><tr><td>Neighted average shares used in jiluted net income per share omputation</td><td></td><td>2,490</td><td></td><td></td><td>2,494</td><td></td><td>2,477</td><td></td><td>2,494</td><td></td><td>2,507</td></tr><tr><td colspan=\"12\">5AAP net cash provided by operating ctivities $ 11,499 $ 7,333 $ 2,249 $ 28,090 $ 5,641</td></tr><tr><td>Purchases related to property and equipment and intangible assets</td><td></td><td>(253)</td><td></td><td></td><td>(278)</td><td></td><td>(509)</td><td></td><td>(1,069)</td><td></td><td>(1,833)</td></tr><tr><td>Principal payments on property and equipment and intangible assets</td><td></td><td>(29)</td><td></td><td></td><td>(13)</td><td></td><td>(4)</td><td></td><td>(74)</td><td></td><td>(58)</td></tr><tr><td>\u2018ree cash flow</td><td>$</td><td>11,217</td><td>$</td><td></td><td>7,042</td><td>$</td><td>1,736</td><td>$</td><td>26,947</td><td>$</td><td>3,750</td></tr></table>"
+        },
+        "text": "January 28, October 29 January 29, January 28, January 29, 2024 2023 2023 2024 2023 GAAP $ 4.93 $ 3.71 $ 0.57 $ 11.93 $ 1.74 Non-GAAP $ 5.16 $ 4.02 $ 0.88 $ 12.96 $ 3.34 2,490 2,494 2,477 2,494 2,507 $ 11,499 $ 7,333 $ 2,249 $ 28,090 $ 5,641 Purchases related to property and equipment and intangible assets Principal payments on property and equipment and intangible assets (253) (29) (278) (13) (509) (4) (1,069) (74) $ 11,217 $ 7,042 $ 1,736 $ 26,947 $ 3,750",
+        "type": "Table"
+    },
+    {
+        "element_id": "bfa87ddc08bb717357cf448a7fa800a4",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        254.6
+                    ],
+                    [
+                        138.6,
+                        282.4
+                    ],
+                    [
+                        514.6,
+                        282.4
+                    ],
+                    [
+                        514.6,
+                        254.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "0b1753f0fcdb65706645d438babb10d2"
+        },
+        "text": "Diluted net income per share",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "af49ee143239ff197baa823bed88dfe3",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        423.7
+                    ],
+                    [
+                        138.6,
+                        507.1
+                    ],
+                    [
+                        576.0,
+                        507.1
+                    ],
+                    [
+                        576.0,
+                        423.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "0b1753f0fcdb65706645d438babb10d2"
+        },
+        "text": "Weighted average shares used in diluted net income per share computation",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "3d7807f625d293a1b5889f67263c8d8f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        564.7
+                    ],
+                    [
+                        138.6,
+                        620.3
+                    ],
+                    [
+                        630.9,
+                        620.3
+                    ],
+                    [
+                        630.9,
+                        564.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "0b1753f0fcdb65706645d438babb10d2"
+        },
+        "text": "GAAP net cash provided by operating activities",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "f193d3f5115c1dc5927ab1759c9fae5b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1475.7,
+                        661.9
+                    ],
+                    [
+                        1475.7,
+                        689.7
+                    ],
+                    [
+                        1572.6,
+                        689.7
+                    ],
+                    [
+                        1572.6,
+                        661.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "0b1753f0fcdb65706645d438babb10d2"
+        },
+        "text": "(1,833)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "3a7eed44bd1b81eaf53c21110b7b540a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1515.3,
+                        730.7
+                    ],
+                    [
+                        1515.3,
+                        758.5
+                    ],
+                    [
+                        1572.6,
+                        758.5
+                    ],
+                    [
+                        1572.6,
+                        730.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "0b1753f0fcdb65706645d438babb10d2"
+        },
+        "text": "(58)",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "96af6bc05b7d41bd0e70dc6a8df2e860",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        771.3
+                    ],
+                    [
+                        138.6,
+                        799.1
+                    ],
+                    [
+                        331.7,
+                        799.1
+                    ],
+                    [
+                        331.7,
+                        771.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8
+        },
+        "text": "Free cash flow",
+        "type": "Title"
+    },
+    {
+        "element_id": "7b940d330e6358c81641354dbd434f4b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        132.3,
+                        907.1
+                    ],
+                    [
+                        132.3,
+                        969.4
+                    ],
+                    [
+                        1514.9,
+                        969.4
+                    ],
+                    [
+                        1514.9,
+                        907.1
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.87933,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "96af6bc05b7d41bd0e70dc6a8df2e860"
+        },
+        "text": "(A) Acquisition-related and other costs are comprised of amortization of intangible assets and transaction costs, and are included in the following line items:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "99c161ff97cd20df205831d4ae062599",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        160.9,
+                        975.9
+                    ],
+                    [
+                        160.9,
+                        1217.9
+                    ],
+                    [
+                        1570.1,
+                        1217.9
+                    ],
+                    [
+                        1570.1,
+                        975.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90884,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "96af6bc05b7d41bd0e70dc6a8df2e860",
+            "text_as_html": "<table><thead><th rowspan=\"3\">Cost of revenue</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"2\" rowspan=\"2\">October29 2023</th><th colspan=\"2\" rowspan=\"2\">January 29, 2023</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"2\" rowspan=\"2\">January 29, 2023</th></thead><thead><th></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th></thead><thead><th></th><th>$</th><th>119</th><th>\u00a2$</th><th>119</th><th>$\u00a2$</th><th>120</th><th>$</th><th>477</th><th>$</th><th>455</th></thead><tr><td>Research and development</td><td>$</td><td>l2</td><td>$</td><td>12</td><td>$</td><td>10</td><td>$</td><td>49</td><td>$</td><td>39</td></tr><tr><td>Sales, general and administrative</td><td>$</td><td>6</td><td>$</td><td>4</td><td>$</td><td>44</td><td>$</td><td>57</td><td>$</td><td>180</td></tr></table>"
+        },
+        "text": "Three Months Ended Twelve Months Ended January 28, October 29 January 29, January 28, January 29, 2024 2023 2023 2024 2023 Cost of revenue $ 119 $ 119 $ 120 $ 477 $ Research and development $ 12 $ 12 $ 10 $ 49 $",
+        "type": "Table"
+    },
+    {
+        "element_id": "017cda3667f9fe53af4cb6fc9aba84ec",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        205.2,
+                        1190.6
+                    ],
+                    [
+                        205.2,
+                        1218.4
+                    ],
+                    [
+                        633.6,
+                        1218.4
+                    ],
+                    [
+                        633.6,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8
+        },
+        "text": "Sales, general and administrative",
+        "type": "Title"
+    },
+    {
+        "element_id": "09fc96082d34c2dfc1295d92073b5ea1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        678.1,
+                        1190.6
+                    ],
+                    [
+                        678.1,
+                        1218.4
+                    ],
+                    [
+                        702.0,
+                        1218.4
+                    ],
+                    [
+                        702.0,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "$",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "814f39a238336216ef8c804bd9336da2",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        816.6,
+                        1190.6
+                    ],
+                    [
+                        816.6,
+                        1218.4
+                    ],
+                    [
+                        885.3,
+                        1218.4
+                    ],
+                    [
+                        885.3,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "6 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "b4516136487bb863b5051e7623cabfff",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        999.9,
+                        1190.6
+                    ],
+                    [
+                        999.9,
+                        1218.4
+                    ],
+                    [
+                        1068.6,
+                        1218.4
+                    ],
+                    [
+                        1068.6,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "4 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "53971f8a8ca785076873e3c9426a225f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1166.6,
+                        1190.6
+                    ],
+                    [
+                        1166.6,
+                        1218.4
+                    ],
+                    [
+                        1249.9,
+                        1218.4
+                    ],
+                    [
+                        1249.9,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "44 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f4a04aa3e866250f05356f8ca1de8b3d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1347.8,
+                        1190.6
+                    ],
+                    [
+                        1347.8,
+                        1218.4
+                    ],
+                    [
+                        1433.2,
+                        1218.4
+                    ],
+                    [
+                        1433.2,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "57 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "f626051bc94422f26f4b774a2bca105e",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1514.5,
+                        1107.3
+                    ],
+                    [
+                        1514.5,
+                        1135.1
+                    ],
+                    [
+                        1571.7,
+                        1135.1
+                    ],
+                    [
+                        1571.7,
+                        1107.3
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "455",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "0b918943df0962bc7a1824c0555a3893",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1531.2,
+                        1148.9
+                    ],
+                    [
+                        1531.2,
+                        1176.7
+                    ],
+                    [
+                        1571.7,
+                        1176.7
+                    ],
+                    [
+                        1571.7,
+                        1148.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "39",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7b69759630f869f2723875f873935fed",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1514.5,
+                        1190.6
+                    ],
+                    [
+                        1514.5,
+                        1218.4
+                    ],
+                    [
+                        1571.7,
+                        1218.4
+                    ],
+                    [
+                        1571.7,
+                        1190.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "180",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "744a9ac2599b8e647e2b5d61995d5c22",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        132.3,
+                        1272.5
+                    ],
+                    [
+                        132.3,
+                        1303.8
+                    ],
+                    [
+                        869.2,
+                        1303.8
+                    ],
+                    [
+                        869.2,
+                        1272.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78802,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "(B) Stock-based compensation consists of the following:",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "0c2922861d32a41094c3d19a4e032c70",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        164.9,
+                        1308.2
+                    ],
+                    [
+                        164.9,
+                        1553.5
+                    ],
+                    [
+                        1575.8,
+                        1553.5
+                    ],
+                    [
+                        1575.8,
+                        1308.2
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.90788,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec",
+            "text_as_html": "<table><thead><th rowspan=\"3\">Cost of revenue</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"2\" rowspan=\"2\">October29 2023</th><th colspan=\"2\" rowspan=\"2\">January 29, 2023</th><th colspan=\"2\" rowspan=\"2\">January 28, 2024</th><th colspan=\"2\" rowspan=\"2\">January 29, 2023</th></thead><thead><th></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th><th colspan=\"2\"></th></thead><thead><th></th><th>$</th><th>45</th><th>$</th><th>38</th><th>\u00a2</th><th>30</th><th>$</th><th>141</th><th>$</th><th>138</th></thead><tr><td>Research and development</td><td>$</td><td>706</td><td>$</td><td>701</td><td>$</td><td>527</td><td>$</td><td>2,532</td><td>$</td><td>1,892</td></tr><tr><td>Sales, general and administrative</td><td>$</td><td>242</td><td>\u00a2</td><td>240</td><td>$</td><td>182</td><td>$</td><td>876</td><td>$</td><td>680</td></tr></table>"
+        },
+        "text": "Three Months Ended Twelve Months Ended January 28, October 29 January 29, January 28, January 29, 2024 2023 2023 2024 2023 Cost of revenue Research and development Sales, general and administrative",
+        "type": "Table"
+    },
+    {
+        "element_id": "dad4fc499368f6a70da41e002c78b66f",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        678.1,
+                        1443.8
+                    ],
+                    [
+                        678.1,
+                        1554.9
+                    ],
+                    [
+                        702.0,
+                        1554.9
+                    ],
+                    [
+                        702.0,
+                        1443.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "$ $ $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "5f7c9405d661444f68653875a8e11f5d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        783.2,
+                        1443.8
+                    ],
+                    [
+                        783.2,
+                        1554.9
+                    ],
+                    [
+                        885.3,
+                        1554.9
+                    ],
+                    [
+                        885.3,
+                        1443.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "45 $ 706 $ 242 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "fd074bc8bd3221336e602456b5be43af",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        966.6,
+                        1443.8
+                    ],
+                    [
+                        966.6,
+                        1554.9
+                    ],
+                    [
+                        1068.6,
+                        1554.9
+                    ],
+                    [
+                        1068.6,
+                        1443.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "38 $ 701 $ 240 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "e27e32923bf12aa966ae311360869b89",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1149.9,
+                        1443.8
+                    ],
+                    [
+                        1149.9,
+                        1554.9
+                    ],
+                    [
+                        1249.9,
+                        1554.9
+                    ],
+                    [
+                        1249.9,
+                        1443.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "30 $ 527 $ 182 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "e4bfc67d0fc24e454cdcc076b5ee0f93",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1308.2,
+                        1443.8
+                    ],
+                    [
+                        1308.2,
+                        1554.9
+                    ],
+                    [
+                        1433.2,
+                        1554.9
+                    ],
+                    [
+                        1433.2,
+                        1443.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "141 $ 2,532 $ 876 $",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "7f1ff038b6cc42411c684d052716c086",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1491.6,
+                        1443.8
+                    ],
+                    [
+                        1491.6,
+                        1554.9
+                    ],
+                    [
+                        1571.7,
+                        1554.9
+                    ],
+                    [
+                        1571.7,
+                        1443.8
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "138 1,892 680",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "c90a0fa8e85b5761f64ab374f7b79fb6",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        132.3,
+                        1605.9
+                    ],
+                    [
+                        132.3,
+                        1666.7
+                    ],
+                    [
+                        1574.6,
+                        1666.7
+                    ],
+                    [
+                        1574.6,
+                        1605.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.89611,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "(C) Other consists of costs related to Russia branch office closure, assets held for sale related adjustments, legal settlement costs, and contributions.",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "a4aca005de4173e233b19bb45c7b3d2a",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        132.3,
+                        1719.7
+                    ],
+                    [
+                        132.3,
+                        1779.2
+                    ],
+                    [
+                        1574.9,
+                        1779.2
+                    ],
+                    [
+                        1574.9,
+                        1719.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.87982,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 8,
+            "parent_id": "017cda3667f9fe53af4cb6fc9aba84ec"
+        },
+        "text": "(D) Income tax impact of non-GAAP adjustments, including the recognition of excess tax benefits or deficiencies related to stock-based compensation under GAAP accounting standard (ASU 2016-09).",
+        "type": "NarrativeText"
+    },
+    {
+        "element_id": "8b5b5fddb31f1e31acb109a562757d69",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        456.9,
+                        129.4
+                    ],
+                    [
+                        456.9,
+                        203.7
+                    ],
+                    [
+                        1251.2,
+                        203.7
+                    ],
+                    [
+                        1251.2,
+                        129.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9
+        },
+        "text": "NVIDIA CORPORATION RECONCILIATION OF GAAP TO NON-GAAP OUTLOOK",
+        "type": "Title"
+    },
+    {
+        "element_id": "00b380c51fdda981cc5f47d40d5a7ed1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        162.1,
+                        252.0
+                    ],
+                    [
+                        162.1,
+                        681.2
+                    ],
+                    [
+                        1563.0,
+                        681.2
+                    ],
+                    [
+                        1563.0,
+                        252.0
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "detection_class_prob": 0.78274,
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9,
+            "parent_id": "8b5b5fddb31f1e31acb109a562757d69",
+            "text_as_html": "<table><tr><td rowspan=\"4\">AAP gross margin Impact of stock-based compensation expense, acquisition-related costs, and other costs</td><td rowspan=\"4\">Q1 Outlook ($ in millions) 76.3 % 0.7 % .</td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td></td><td></td></tr><tr><td>on-GAAP gross margin</td><td>77.0 %</td></tr><tr><td>AAP operating expenses</td><td>3,480</td></tr><tr><td>Stock-based compensation expense, acquisition-related costs, and other costs</td><td>(980)</td></tr></table>"
+        },
+        "text": "Impact of stock-based compensation expense, acquisition-related costs, and other costs Stock-based compensation expense, acquisition-related costs, and other costs $ Q1 FY2025 Outlook ($ in millions) 3,480 (980)",
+        "type": "Table"
+    },
+    {
+        "element_id": "1700f5fbf0ac80bab248c4be060ddb66",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        376.5
+                    ],
+                    [
+                        138.6,
+                        404.3
+                    ],
+                    [
+                        391.0,
+                        404.3
+                    ],
+                    [
+                        391.0,
+                        376.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9
+        },
+        "text": "GAAP gross margin",
+        "type": "Title"
+    },
+    {
+        "element_id": "1d619233a36dacbc9ff3b591ef405fbe",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        486.9
+                    ],
+                    [
+                        138.6,
+                        514.7
+                    ],
+                    [
+                        462.7,
+                        514.7
+                    ],
+                    [
+                        462.7,
+                        486.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9
+        },
+        "text": "Non-GAAP gross margin",
+        "type": "Title"
+    },
+    {
+        "element_id": "54fc36f10b5c2bccfd7b9273a5157b02",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        572.4
+                    ],
+                    [
+                        138.6,
+                        600.1
+                    ],
+                    [
+                        475.7,
+                        600.1
+                    ],
+                    [
+                        475.7,
+                        572.4
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9
+        },
+        "text": "GAAP operating expenses",
+        "type": "Title"
+    },
+    {
+        "element_id": "0135a874c74306e23e4bcc104567ab08",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        138.6,
+                        655.7
+                    ],
+                    [
+                        138.6,
+                        683.5
+                    ],
+                    [
+                        549.5,
+                        683.5
+                    ],
+                    [
+                        549.5,
+                        655.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9
+        },
+        "text": "Non-GAAP operating expenses",
+        "type": "Title"
+    },
+    {
+        "element_id": "09fc96082d34c2dfc1295d92073b5ea1",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1282.3,
+                        654.6
+                    ],
+                    [
+                        1282.3,
+                        682.4
+                    ],
+                    [
+                        1305.9,
+                        682.4
+                    ],
+                    [
+                        1305.9,
+                        654.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9,
+            "parent_id": "0135a874c74306e23e4bcc104567ab08"
+        },
+        "text": "$",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "d0632a95efb62d1b597724bf63a8b46b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1476.9,
+                        375.5
+                    ],
+                    [
+                        1476.9,
+                        403.2
+                    ],
+                    [
+                        1566.7,
+                        403.2
+                    ],
+                    [
+                        1566.7,
+                        375.5
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9,
+            "parent_id": "0135a874c74306e23e4bcc104567ab08"
+        },
+        "text": "76.3 %",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "385fe72bda070372089f44b640cf6e3d",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1493.6,
+                        430.7
+                    ],
+                    [
+                        1493.6,
+                        458.5
+                    ],
+                    [
+                        1566.7,
+                        458.5
+                    ],
+                    [
+                        1566.7,
+                        430.7
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9,
+            "parent_id": "0135a874c74306e23e4bcc104567ab08"
+        },
+        "text": "0.7 %",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "e7a7c819edae8c3487066b3bb93561ca",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1476.1,
+                        485.9
+                    ],
+                    [
+                        1476.1,
+                        513.7
+                    ],
+                    [
+                        1566.7,
+                        513.7
+                    ],
+                    [
+                        1566.7,
+                        485.9
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9,
+            "parent_id": "0135a874c74306e23e4bcc104567ab08"
+        },
+        "text": "77.0 %",
+        "type": "UncategorizedText"
+    },
+    {
+        "element_id": "2b4e34ed0413d9f425d4026ebd5ca67b",
+        "metadata": {
+            "coordinates": {
+                "layout_height": 2200,
+                "layout_width": 1700,
+                "points": [
+                    [
+                        1459.4,
+                        654.6
+                    ],
+                    [
+                        1459.4,
+                        682.4
+                    ],
+                    [
+                        1540.1,
+                        682.4
+                    ],
+                    [
+                        1540.1,
+                        654.6
+                    ]
+                ],
+                "system": "PixelSpace"
+            },
+            "file_directory": "reports",
+            "filename": "Q4FY24-CFO-Commentary.pdf",
+            "filetype": "application/pdf",
+            "languages": [
+                "eng"
+            ],
+            "last_modified": "2024-04-05T00:45:04",
+            "page_number": 9,
+            "parent_id": "0135a874c74306e23e4bcc104567ab08"
+        },
+        "text": "2,500",
+        "type": "UncategorizedText"
+    }
+]

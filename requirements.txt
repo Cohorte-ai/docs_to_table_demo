@@ -1,0 +1,12 @@
+chromadb
+unstructured 
+unstructured-inference
+openai 
+langchain
+poppler-utils
+# tesseract-ocr
+pikepdf 
+pypdf
+pillow-heif
+unstructured_pytesseract
+tiktoken
