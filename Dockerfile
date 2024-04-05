@@ -11,10 +11,7 @@ COPY requirements.txt .
 
 ENV PYHTONUNBUFFERED=1
 
-RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
-
-RUN apt-get update \
-  && apt-get -y install tesseract-ocr
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6 poppler-utils tesseract-ocr -y
 
 # Install the required packages
 RUN pip install --no-cache-dir -r requirements.txt

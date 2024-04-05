@@ -95,7 +95,7 @@ def main():
                 # Query the question and display the answer
                 result = qa_chain({"query": question})
                 st.write("Answer:")
-                st.write(result['result'])
+                st.write(result)
 
 if __name__ == "__main__":
     main()
