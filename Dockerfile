@@ -7,6 +7,15 @@ WORKDIR /app
 # Copy the requirements file to the working directory
 COPY requirements.txt .
 
+# Install req libs
+
+ENV PYHTONUNBUFFERED=1
+
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+
+RUN apt-get update \
+  && apt-get -y install tesseract-ocr
+
 # Install the required packages
 RUN pip install --no-cache-dir -r requirements.txt
 
@@ -17,4 +26,4 @@ COPY . .
 EXPOSE 8501
 
 # Run the Streamlit application
-CMD ["streamlit", "run", "app.py"]
+CMD ["streamlit", "run", "app.py","--theme.base light"]
