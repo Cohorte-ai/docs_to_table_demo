@@ -75,27 +75,29 @@ def main():
         filename = temp_file_path
         output_dir = "outputs"
 
-        if st.button("Load Tables"):
+        st.write("Loading tables, takes around a minute")
+        docs, text_file = extract_tables_to_docs(filename, output_dir)
+
+        if st.button("Show Tables"):
             # Extract tables and convert to documents
-            docs, text_file = extract_tables_to_docs(filename, output_dir)
             st.write("Tables:")
             st.markdown(text_file, unsafe_allow_html=True)
 
-            # if st.button("Answer"):
-            # Create a Chroma database from the documents and embeddings
-            db = Chroma.from_documents(docs, embeddings)
+        # if st.button("Answer"):
+        # Create a Chroma database from the documents and embeddings
+        db = Chroma.from_documents(docs, embeddings)
 
-            # Initialize the model and retriever
-            qa_chain = RetrievalQA.from_chain_type(llm, retriever=db.as_retriever())
-            
-            # Get user question
-            question = st.text_input("Ask a question about the document:")
-            
-            if question:
-                # Query the question and display the answer
-                result = qa_chain({"query": question})
-                st.write("Answer:")
-                st.write(result)
+        # Initialize the model and retriever
+        qa_chain = RetrievalQA.from_chain_type(llm, retriever=db.as_retriever())
+        
+        # Get user question
+        question = st.text_input("Ask a question about the document:")
+        
+        if question:
+            # Query the question and display the answer
+            result = qa_chain({"query": question})
+            st.write("Answer:")
+            st.write(result)
 
 if __name__ == "__main__":
     main()
