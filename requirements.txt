@@ -4,9 +4,10 @@ unstructured-inference
 openai 
 langchain
 poppler-utils
-# tesseract-ocr
+tesseract-ocr
 pikepdf 
 pypdf
 pillow-heif
 unstructured_pytesseract
 tiktoken
+streamlit
