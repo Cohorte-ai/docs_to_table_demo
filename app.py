@@ -75,7 +75,7 @@ def main():
         filename = temp_file_path
         output_dir = "outputs"
 
-        st.write("Loading tables, takes around a minute")
+        st.write("Loading tables, takes around 5 minutes")
         docs, text_file = extract_tables_to_docs(filename, output_dir)
 
         if st.button("Show Tables"):
@@ -97,7 +97,7 @@ def main():
             # Query the question and display the answer
             result = qa_chain({"query": question})
             st.write("Answer:")
-            st.write(result)
+            st.write(result["result"])
 
 if __name__ == "__main__":
     main()
