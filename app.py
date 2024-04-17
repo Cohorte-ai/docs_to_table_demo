@@ -17,7 +17,9 @@ from langchain.llms import OpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 import streamlit as st
 from streamlit_extras.app_logo import add_logo
+from dotenv import load_dotenv
 
+load_dotenv()
 # add kitten logo
 add_logo("https://placekitten.com/100/100")
 
