@@ -16,6 +16,10 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 import streamlit as st
+from streamlit_extras.app_logo import add_logo
+
+# add kitten logo
+add_logo("https://placekitten.com/100/100")
 
 def process_json_file(input_filename):
     # Read the JSON file
@@ -55,7 +59,6 @@ def extract_tables_to_docs(filename, output_dir, strategy="hi_res", model_name="
     return docs, text_file
 
 # Set up OpenAI API key and embeddings
-os.environ['OPENAI_API_KEY'] = "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"
 embeddings = OpenAIEmbeddings()
 llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
 
