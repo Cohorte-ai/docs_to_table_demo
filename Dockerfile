@@ -17,7 +17,7 @@ RUN apt-get update && apt-get install ffmpeg libsm6 libxext6 poppler-utils tesse
 # Install the required packages
 # RUN pip install --no-cache-dir -r requirements.txt
 RUN pip install --no-cache-dir -r requirements_dev.txt
-
+RUN python -m nltk.downloader punkt averaged_perceptron_tagger
 # Copy the project files to the working directory
 COPY . .
 
