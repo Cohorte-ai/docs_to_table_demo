@@ -16,7 +16,7 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 from langchain.embeddings.openai import OpenAIEmbeddings
 import streamlit as st
-from streamlit_extras.app_logo import add_logo
+# from streamlit_extras.app_logo import add_logo
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -81,7 +81,7 @@ def main():
 
         st.write("Loading tables, takes around 5 minutes")
         docs, text_file = extract_tables_to_docs(filename, output_dir)
-        col1, col2 = st.columns(2)
+        col1, col2, col3 = st.columns(3)
         with col1:
             if st.button("Show Tables"):                
                 # Extract tables and convert to documents
@@ -95,7 +95,7 @@ def main():
         # Initialize the model and retriever
         qa_chain = RetrievalQA.from_chain_type(llm, retriever=db.as_retriever())
         
-        with col2:
+        with col3:
             # Get user question
             question = st.text_input("Ask a question about the document:")
             
